@@ -30,6 +30,20 @@ body {
     font-weight: 700;
 }
 
+.row {
+    text-align: center;
+}
+
+#about-text {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-icon {
+    width: 100%;
+    max-width: 100px;
+}
+
 
 /*media queries to make contents responsive based on view port size*/
 
