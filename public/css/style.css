@@ -6,6 +6,7 @@ font-family: 'Ubuntu', sans-serif;
 body {
     background-color: lightslategrey;
     font-family: 'Open Sans', sans-serif;
+    padding-top: 70px;
 }
 
 .headerText {
@@ -43,6 +44,25 @@ body {
 .about-icon {
     width: 100%;
     max-width: 100px;
+}
+
+.footer-area {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: black;
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f6f6f6+47,ededed+100 */
+    background: #ffffff;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=0);
+    /* IE6-9 */
 }
 
 
