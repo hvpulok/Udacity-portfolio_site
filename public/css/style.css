@@ -11,6 +11,7 @@ body {
 .headerText {
     padding: 3% 5%;
     border-radius: 10px;
+    font-family: 'Ubuntu', sans-serif;
     text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8ddcf4+0,0fb4e7+100 */
     background: #8ddcf4;
