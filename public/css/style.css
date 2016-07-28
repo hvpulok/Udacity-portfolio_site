@@ -69,6 +69,12 @@ body {
     margin: 0 auto;
 }
 
+.thumbnail:hover {
+    border: 5px solid steelblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 
 /*media queries to make contents responsive based on view port size*/
 
