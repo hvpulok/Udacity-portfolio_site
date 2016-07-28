@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hvpulok/Udacity-portfolio_site/issues"
   },
-  "homepage": "https://github.com/hvpulok/Udacity-portfolio_site#readme"
+  "homepage": "https://github.com/hvpulok/Udacity-portfolio_site#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
 }
