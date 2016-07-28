@@ -65,6 +65,10 @@ body {
     /* IE6-9 */
 }
 
+.modal-body img {
+    margin: 0 auto;
+}
+
 
 /*media queries to make contents responsive based on view port size*/
 
