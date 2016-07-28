@@ -7,7 +7,7 @@
 
 ## Feature Checklist complying Project Rubric:
 * Required Elements:
-⋅⋅* at least 4 images : __done__
-⋅⋅* title text (h1, h2, etc.) : __done__
-⋅⋅* regular (paragraph) text : __done__
-⋅⋅* a logo : __done__
+    * at least 4 images : __done__
+    * title text (h1, h2, etc.) : __done__
+    * regular (paragraph) text : __done__
+    * a logo : __done__
