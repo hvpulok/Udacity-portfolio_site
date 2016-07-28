@@ -4,7 +4,6 @@ font-family: 'Ubuntu', sans-serif;
 */
 
 body {
-    background-color: lightslategrey;
     font-family: 'Open Sans', sans-serif;
     padding-top: 70px;
 }
@@ -73,6 +72,19 @@ body {
     border: 5px solid steelblue;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.btn:hover {
+    background: #8ddcf4;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #8ddcf4 0%, #0fb4e7 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #8ddcf4 0%, #0fb4e7 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #8ddcf4 0%, #0fb4e7 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#8ddcf4', endColorstr='#0fb4e7', GradientType=0);
+    /* IE6-9 */
 }
 
 
